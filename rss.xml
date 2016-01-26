@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cabeça de Homem]]></title>
+        <description><![CDATA[Cabeça de Homem]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 17:41:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Como saber se um homem é bom de cama antes de levá-lo pra lá]]></title>
+            <description><![CDATA[<article><h1>Como saber se um homem é bom de cama antes de levá-lo pra lá</h1><p>Antes de tudo, um aviso: o que você vai ler abaixo são teorias vagamente baseadas em conceitos da psicologia e ainda em fase de comprovação! Mais importante ainda,isso não quer dizer que quem não sabe dançar não é bom de cama!!</p></article>]]></description>
+            <link>undefinedcomo-saber-se-um-homem-e-bom-de-cama-antes-de-leva-lo-pra-la/index.html</link>
+            <guid isPermaLink="false">de5a2859-f41e-4ba7-8ad4-262a7663fe8c</guid>
+            <pubDate>Tue, 26 Jan 2016 17:41:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
